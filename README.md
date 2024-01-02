@@ -1,2 +1,2 @@
 # JS
-A code repo for javascript to learn from Hitesh Sir "Chai aur Code".
+A code repo tracking my journey of learning JavaScript from Scratch. The main reason behind building it here is to keep myself on track.
